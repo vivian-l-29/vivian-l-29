@@ -7,7 +7,8 @@
     <br>
     <br>˚ʚ♡ɞ˚ Actualmente estoy aprendiendo programación 
     <br>˚ʚ♡ɞ˚ Programación en html, Java SE 
-    <br>˚ʚ♡ɞ˚ Me interesa el mundo de la literatura.
+    <br>˚ʚ♡ɞ˚ Me interesa el mundo de la literatura. 
+    In this profile we love Matthew Gray Gubler and ALi HazelWood ⋆˙⟡♡
     </samp>
    <br>
   <br>
