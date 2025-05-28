@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**vivian-l-29/vivian-l-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello World. I'm Vivian López 📝📎📚♡︎.
+---
+<p>
+  <img src="https://gifer.com/es/gifs/snoopy" align="right" width="15%"/>
+  <samp>
+    <br>Soy una estudiante de IV Computación.
+    <br>
+    <br>˚ʚ♡ɞ˚ Actualmente estoy aprendiendo programación 
+    <br>˚ʚ♡ɞ˚ Programación en html, Java SE 
+    <br>˚ʚ♡ɞ˚ Me interesa el mundo de la literatura.
+    </samp>
+   <br>
+  <br>
+  <p align="center">
+    <samp>
+      #html, #css, #git, #python, #Java SE, #SQL, #linux
+     </samp>
+    <br>
+  </p>
+  
+</p>
