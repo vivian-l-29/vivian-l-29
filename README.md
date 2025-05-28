@@ -1,7 +1,7 @@
 ### Hello World. I'm Vivian López 📝📎📚♡︎.
 ---
 <p>
-  <img src="https://gifer.com/es/gifs/snoopy" align="right" width="15%"/>
+  <img src="https://i.gifer.com/origin/d3/d38a56c952e7e4db1cdd24a8f05d114e_w200.gif" align="right" width="15%"/>
   <samp>
     <br>Soy una estudiante de IV Computación.
     <br>
